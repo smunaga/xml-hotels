@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Hotel instead of Hotels -->
+<!-- Error 1: Hotel instead of Hotels -->
 <Hotel>
   <Hotel Rating="4.2">
     <Name>Westin</Name>
@@ -27,7 +27,7 @@
     </Address>
   </Hotel>
   
-<!-- NearestAiport missing -->
+<!-- Error 2: NearestAiport missing -->
   <Hotel>
     <Name>Millennium Knickerbocker</Name>
     <Phone>312-751-8100</Phone>
@@ -40,7 +40,7 @@
     </Address>
   </Hotel>
 
-  <!-- Phone element missing -->
+  <!-- Error 3: Phone element missing -->
   <Hotel>
     <Name>Hotel Beacon</Name>
     <Address NearestAirport="JFK">
@@ -64,7 +64,7 @@
     </Address>
   </Hotel>
 
-  <!-- Missing address closing tag -->
+  <!-- Error 4: Missing address closing tag -->
   <Hotel Rating="4.5">
     <Name>Monterey Plaza Hotel</Name>
     <Phone>831-646-1700</Phone>
@@ -90,7 +90,7 @@
     </Address>
   </Hotel>
 
-  <!-- 2 names provided -->
+  <!-- Error 5: 2 names provided -->
   <Hotel Rating="4.4">
     <Name>JW Marriott Austin</Name>
     <Name>Austin Marriott Downtown</Name>
