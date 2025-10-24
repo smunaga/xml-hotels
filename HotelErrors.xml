@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Error 1: Hotel instead of Hotels -->
 <Hotel>
+  <!-- Error 1: Hotel instead of Hotels -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
