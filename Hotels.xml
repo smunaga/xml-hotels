@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Fairmont San Francisco</Name>
+    <Phone>415-772-5000</Phone>
+    <Phone>800-257-7544</Phone>
+    <Address NearestAirport="SFO">
+      <Number>950</Number>
+      <Street>Mason St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94108</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Millennium Knickerbocker</Name>
+    <Phone>312-751-8100</Phone>
+    <Address NearestAirport="ORD">
+      <Number>163</Number>
+      <Street>E Walton Pl</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60611</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Beacon</Name>
+    <Phone>212-787-1100</Phone>
+    <Address NearestAirport="JFK">
+      <Number>2130</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10023</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Gaylord Opryland Resort</Name>
+    <Phone>615-889-1000</Phone>
+    <Address NearestAirport="BNA">
+      <Number>2800</Number>
+      <Street>Opryland Dr</Street>
+      <City>Nashville</City>
+      <State>TN</State>
+      <Zip>37214</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Monterey Plaza Hotel</Name>
+    <Phone>831-646-1700</Phone>
+    <Phone>800-334-3999</Phone>
+    <Address NearestAirport="MRY">
+      <Number>400</Number>
+      <Street>Cannery Row</Street>
+      <City>Monterey</City>
+      <State>CA</State>
+      <Zip>93940</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Silver Legacy Resort Casino</Name>
+    <Phone>775-329-4777</Phone>
+    <Phone>800-687-8733</Phone>
+    <Address NearestAirport="RNO">
+      <Number>407</Number>
+      <Street>N Virginia St</Street>
+      <City>Reno</City>
+      <State>NV</State>
+      <Zip>89501</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>JW Marriott Austin</Name>
+    <Phone>512-474-4777</Phone>
+    <Phone>888-236-2427</Phone>
+    <Address NearestAirport="AUS">
+      <Number>110</Number>
+      <Street>E 2nd St</Street>
+      <City>Austin</City>
+      <State>TX</State>
+      <Zip>78701</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Residence Inn Fort Lauderdale SW/Miramar</Name>
+    <Phone>954-450-2717</Phone>
+    <Address NearestAirport="FLL">
+      <Number>14700</Number>
+      <Street>Hotel Rd</Street>
+      <City>Davie</City>
+      <State>FL</State>
+      <Zip>33325</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Dream Inn Santa Cruz</Name>
+    <Phone>831-426-4330</Phone>
+    <Address NearestAirport="SJC">
+      <Number>175</Number>
+      <Street>W Cliff Dr</Street>
+      <City>Santa Cruz</City>
+      <State>CA</State>
+      <Zip>95060</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
