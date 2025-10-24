@@ -1,5 +1,5 @@
-<!-- 10 sample hotel entries -->
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 10 sample hotel entries -->
 <Hotels>
   <Hotel Rating="4.2">
     <Name>Westin</Name>
