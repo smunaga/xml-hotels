@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 10 sample hotel entries -->
 <Hotels>
   <Hotel Rating="4.2">
     <Name>Westin</Name>
@@ -13,6 +12,8 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
+  <!-- 10 sample hotel entries including given -->
 
   <Hotel Rating="4.5">
     <Name>Fairmont San Francisco</Name>
